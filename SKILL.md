@@ -5,7 +5,7 @@ description: "Introduce UIDC and answer UIDC questions for general audiences in 
 
 # Instructions
 
-1. 먼저 사용자에게 무슨 언어를 사용할지 묻습니다. 최대한 많은 언어 종류를 보여줍니다.
+1. 먼저 사용자에게 무슨 언어를 사용할지 묻습니다. 최대한 많은 언어 종류를 제시합니다.
 2. 사용자가 선택한 언어로 UIDC를 소개합니다.
 
 **사용자가 선택한 언어로 답변합니다. 절대로 답변 중간에 언어를 바꾸지 않습니다.**
