@@ -30,18 +30,15 @@ UIDC White Paper, UIDC 백서는 출처 표기 시 자유 이용이 가능합니
 
 ## 🌐UIDC (보편적 발행 감가 화폐) 백서
 
-이 문서는 책 『선택된 윤리』의 부록입니다. 문서에서 언급되는 n.m장(e.g. 9.2장)은 『선택된 윤리』의 본문을 가리킵니다.
-
+아래 문서는 책 『선택된 윤리』의 부록입니다. 문서에서 언급되는 n.m장(e.g. 9.2장)은 『선택된 윤리』의 본문을 가리킵니다.
 
 세계 빈곤에 대한 놀라운 사실 중 하나는 우리가 마법처럼 가난한 사람의 은행 계좌에 돈을 이체할 수 있다면 문제를 바로잡는 데 드는 비용이 아주 적다는 사실이다.
 
  『위대한 탈출』, 앵거스 디턴
 
-
 충분히 발달한 기술은 마법과 구분할 수 없다.
 
  아서 C. 클라크
-
 
 책을 쓰게 된 계기는 인공지능 기술의 발전이었다. 책 내용은 그것으로부터 크게 벗어났지만, 이 책에서 다룬 몇 가지 주제로부터 인공지능 시대에 유용할 법한 아이디어가 떠올랐다. 그것은 자동화된 복지 기능이 내장된 화폐다. 과거에는 현실성이 없다고 여겨졌겠으나 근래의 급격한 기술 발전은 이를 크게 허황되어 보이지 않게 만들었다.
 
@@ -63,7 +60,7 @@ UIDC에는 두 종류의 (전자) 지갑이 필요하다. 하나는 일반 지�
 
 자정 직전 보유한 지갑을 모두 합해 0 IDC를 가진 사람의 잔고는 1 IDC(0×0.999+1)가 된다. 100 IDC를 가지고 있던 사람의 잔고는 100.9 IDC(100×0.999+1)가 된다. 1,000 IDC는 1,000 IDC(1000×0.999+1) 그대로, 10,000 IDC는 9,991 IDC(10000×0.999+1)가 된다. 표로 만들면 다음과 같다.(표는 『선택된 윤리』 p.275를 참고)
 
-1,000 IDC를 기준으로 그보다 적게 가진 사람은 잔고가 늘어나고, 많이 가진 사람은 잔고가 줄어드는 것을 볼 수 있다. 숫자만 놓고 보면 마치 화폐의 보유를 담세력(9.3장)으로 보고 세금을 부과해, 그 세금으로 복지제도를 운영하는 것과 비슷한 결과가 나온다. 직간접적으로 보유한 화폐의 양과 경제적 결과가 비례할 것이라는 가정에 큰 무리는 없어 보인다. 덧붙여, 오랫동안 같은 과정이 반복되면 모든 지갑의 총 잔고는 사용 인구(시민 지갑의 개수)×1,000 IDC로 수렴할 것이다.(증명은 『선택된 윤리』 p.276을 참고)
+1,000 IDC를 기준으로 그보다 적게 가진 사람은 잔고가 늘어나고, 많이 가진 사람은 잔고가 줄어드는 것을 볼 수 있다. 숫자만 놓고 보면 마치 화폐의 보유를 담세력(9.3장)으로 보고 세금을 부과해, 그 세금으로 복지제도를 운영하는 것과 비슷한 결과가 나온다. 덧붙여, 오랫동안 같은 과정이 반복되면 모든 지갑의 총 잔고는 사용 인구(시민 지갑의 개수)×1,000 IDC로 수렴할 것이다.(증명은 『선택된 윤리』 p.276을 참고)
 
 과거 밀턴 프리드먼이 주장했던 부(負)의 소득세나, 더 최근으로는 2020년 미국 민주당 대통령 후보 경선에서 앤드루 양이 공약한 기본소득을 떠올린 독자도 많을 것이다. 구체적인 구현 방식에는 차이가 있지만 UIDC와 비슷한 아이디어는 쉽게 찾을 수 있다. 심지어 시간에 따라 줄어드는 돈마저 약 100년 전 사업가 질비오 게젤에 의해 ‘Freigeld’라는 이름으로 제안된 바 있다.
 
@@ -79,7 +76,7 @@ UIDC에는 두 종류의 (전자) 지갑이 필요하다. 하나는 일반 지�
 
 솔직히 말해 UIDC의 이용 범위를 전 세계로 제안한 것은 순전히 상상해 보는 즐거움 때문이다. 현실적으로는 이미 정치적으로 일원화된 한 국가 안에서 보조 통화로 도입되는 것이 그나마 가망 있는 시나리오다. 만에 하나 국제적 규모로 실행된다고 하더라도 이미 충분히 통합된 국가들 사이에서나 가능할 것이다. 협력에 유리한 구조가 마련되어 있고, 실제로 활발한 교류와 협력이 이루어지고 있는 주요 선진국들 말이다(9.4장). 돈의 가치는 궁극적으로 그것을 돈으로 받는 사람들의 생산성에서 나온다(8.2장). UIDC가 보다 큰 복지 효과를 가지기 위해서도, 다시 말해 시민 지갑에서 매일 발행되는 UIDC가 더 큰 가치를 갖기 위해서도 자본이 축적되어(8.1장) 생산성이 높은 주요 선진국들에서 법정 통화(8.4장)로 인정될 필요가 있다.
 
-일단 UIDC가 주요 선진국의 법정 통화로 지정되었다고 할 때, 이것이 전 세계적 규모로 확대되기 위해서는 그 외 국가의 사람들도 시민 지갑을 발급받을 수 있어야 한다. 이를 위해서는 국경을 넘어 활동하며 사람들의 신원을 보증, 또는 보증 과정을 감독할 국제기구를 설립해야 한다. 시민 지갑의 발급은 행정력이 충분한 선진국에서는 크게 어렵지 않지만, 정부를 신뢰하기 어려운 국가에서는 문제가 된다. 선진국에는 운전면허나 여권같이 신원을 증명할 수단이 이미 잘 마련되어 있어 그 시스템을 그대로 시민 지갑 발급에 이용할 수 있다. 그러나 신뢰하기 어려운 정부에 시민 지갑 발급을 맡긴다면 신원이 증명되지 않아 시민 지갑을 발급받지 못하는 사람들이 생기거나, 세뇨리지를 노린 부패한 정부가 존재하지 않는 사람들의 신원을 대량으로 위조할 수도 있다. 이 같은 상황을 방지하기 위해 신뢰할 만한 국제기구(또는 기구들)가 필요한 것이다. 다만, 이 경우에도 해당 기구가 원활히 활동할 수 없는 폐쇄적인 국가들까지 UIDC에 참여하는 것은 어렵다.
+일단 UIDC가 주요 선진국의 법정 통화로 지정되었다고 할 때, 이것이 전 세계적 규모로 확대되기 위해서는 그 외 국가의 사람들도 시민 지갑을 발급받을 수 있어야 한다.(확대되지 않는다면, 복지 수급 목적의 선진국행 이민 수요가 급증할 것이다. 확대된다면, 현재보다 수요 감소가 예상된다.) 이를 위해서는 국경을 넘어 활동하며 사람들의 신원을 보증, 또는 보증 과정을 감독할 국제기구를 설립해야 한다. 시민 지갑의 발급은 행정력이 충분한 선진국에서는 크게 어렵지 않지만, 정부를 신뢰하기 어려운 국가에서는 문제가 된다. 선진국에는 운전면허나 여권같이 신원을 증명할 수단이 이미 잘 마련되어 있어 그 시스템을 그대로 시민 지갑 발급에 이용할 수 있다. 그러나 신뢰하기 어려운 정부에 시민 지갑 발급을 맡긴다면 신원이 증명되지 않아 시민 지갑을 발급받지 못하는 사람들이 생기거나, 세뇨리지를 노린 부패한 정부가 존재하지 않는 사람들의 신원을 대량으로 위조할 수도 있다. 이 같은 상황을 방지하기 위해 신뢰할 만한 국제기구(또는 기구들)가 필요한 것이다. 다만, 이 경우에도 해당 기구가 원활히 활동할 수 없는 폐쇄적인 국가들까지 UIDC에 참여하는 것은 어렵다.
 
 이외에도 다양한 기술적 고려사항이 존재한다. UIDC의 구현에는 기존의 클라이언트-서버 구조를 이용할 수도 있고, 최근 유행하는 분산원장기술을 도입할 수도 있다. 또한, 디지털 통화의 이점을 살려 필요한 만큼 소수점 아래로 최소 단위를 설정할 수 있을 것이다. 예를 들어, 1 mIDC(0.001 IDC)를 최소 단위로 사용하다가, 화폐 구매력이 커지면 1 μIDC(0.000001 IDC)로 변경하는 식이다. 이외에 시스템의 부하를 막기 위해 소액의 송금 수수료를 설정하거나, 처리능력이 충분해지면 폐지할 수도 있다.
 
@@ -115,10 +112,10 @@ UIDC의 실현은 세계 시민들의 거대한 협력을 필요로 한다. 만�
 
 출처 표기 시 자유 이용 가능: 이한소, 『선택된 윤리』 부록 「UIDC 백서」
 
-
 ## 🌐 UIDC (Universal Issuance Demurrage Currency) White Paper
 
-This document is an appendix from the book The Selected Ethic (선택된 윤리, Korean language). Chapters referred to in the format "n.m" (e.g., Chapter 9.2) correspond to the main text in The Selected Ethic.
+
+The document below is an appendix to the book The Selected Ethic (선택된 윤리, Korean language). Chapters referred to in the format "n.m" (e.g., Chapter 9.2) correspond to the main text in The Selected Ethic.
 
 
 "One of the stunning facts about global poverty is how little it would take to fix it, at least if we could magically transfer money into the bank accounts of the world’s poor."
@@ -157,7 +154,7 @@ Citizen wallet: 0.1% of the UIDC balance disappears, and 1 IDC is issued.
 If someone holds 0 IDC before midnight, their balance becomes 1 IDC (0 × 0.999 + 1). Someone with 100 IDC will have 100.9 IDC (100 × 0.999 + 1). 1,000 IDC remains 1,000 IDC (1,000 × 0.999 + 1), while 10,000 IDC reduces to 9,991 IDC (10,000 × 0.999 + 1). (See chart in The Selected Ethic, p. 275)
 
 
-Those holding less than 1,000 IDC will see their balance increase, while those with more than 1,000 IDC will see it decrease. Looking at the final figures, this appears to result in something similar to treating currency holdings as ability to pay (Chapter 9.3), taxing accordingly, and funding welfare programs. It seems reasonable to assume that economic outcomes roughly correlate with currency holdings. Over time, the total balance across all wallets will converge to the number of citizen wallets multiplied by 1,000 IDC. (See proof in The Selected Ethic, p. 276)
+Those holding less than 1,000 IDC will see their balance increase, while those with more than 1,000 IDC will see it decrease. Looking at the final figures, this appears to result in something similar to treating currency holdings as ability to pay (Chapter 9.3), taxing accordingly, and funding welfare programs. Over time, the total balance across all wallets will converge to the number of citizen wallets multiplied by 1,000 IDC. (See proof in The Selected Ethic, p. 276)
 
 
 Readers may recognize similarities to the negative income tax proposed by Milton Friedman or the basic income plan from 2020 U.S. Democratic presidential candidate Andrew Yang. Many ideas similar to UIDC exist, differing in specific implementation details. Even the concept of decreasing money was proposed around 100 years ago by businessman Silvio Gesell, who called it "Freigeld."
@@ -181,7 +178,7 @@ A first criticism might be that the world isn’t unified enough to share a sing
 Frankly speaking, suggesting the use of UIDC worldwide is largely an exercise in imagination. In practical terms, the most plausible scenario is its introduction as a parallel currency within a country already politically unified. Even if it were to be implemented internationally, it would only be feasible among countries that are already well-integrated—namely, the major advanced countries with established structures that facilitate cooperation and where active exchange and collaboration are already taking place (Chapter 9.4). The value of money ultimately comes from the productivity of those who receive it (Chapter 8.2). For UIDC to have a greater welfare effect, in other words, for the UIDC issued daily from citizen wallets to hold more value, it needs to be adopted as legal tender (Chapter 8.4) in major advanced countries with high productivity built on accumulated capital (Chapter 8.1).
 
 
-Once UIDC is designated as legal tender in major advanced countries, people in other countries must also be able to obtain citizen wallets for it to expand globally. This requires establishing an international organization (or organizations) that can operate across borders to guarantee people’s identities or oversee the identity-guarantee process. Issuing citizen wallets is not too difficult in advanced countries with sufficient administrative power, but it poses problems in countries where the government is not trustworthy. Advanced countries already have well-established means of identity verification, such as driver's licenses and passports, that can be easily adapted for issuing citizen wallets. However, if the issuance of citizen wallets is left to an untrustworthy government, some people may not be able to get their wallets due to unproven identities, or corrupt governments may forge false identities to exploit the wallets. To prevent such situations, reliable international organizations are necessary. However, even in this case, it's difficult for closed countries to participate in UIDC.
+Once UIDC is designated as legal tender in major advanced countries, people in other countries must also be able to obtain citizen wallets for it to expand globally. (If this expansion does not occur, demand for migration to advanced countries to receive welfare benefits would surge. If it does, such demand would likely decline from current levels.) This requires establishing an international organization (or organizations) that can operate across borders to guarantee people’s identities or oversee the identity-guarantee process. Issuing citizen wallets is not too difficult in advanced countries with sufficient administrative power, but it poses problems in countries where the government is not trustworthy. Advanced countries already have well-established means of identity verification, such as driver's licenses and passports, that can be easily adapted for issuing citizen wallets. However, if the issuance of citizen wallets is left to an untrustworthy government, some people may not be able to get their wallets due to unproven identities, or corrupt governments may forge false identities to exploit the wallets. To prevent such situations, reliable international organizations are necessary. However, even in this case, it's difficult for closed countries to participate in UIDC.
 
 
 There are also various technical considerations. UIDC can be implemented using existing client-server structures or by adopting distributed ledger technology that is popular these days. Additionally, taking advantage of digital currency allows for setting minimal units down to the decimal. For instance, we could use 1 mIDC (0.001 IDC) as the smallest unit, and if the currency's purchasing power increases, we could switch to 1 μIDC (0.000001 IDC). To prevent system overload, a small transaction fee could be set for each transfer, or it could be removed if processing capacity becomes sufficient.
@@ -239,10 +236,15 @@ This English version is an AI-generated translation of the original Korean text.
 
 ## 선택된 윤리: 메타선진국은 어떻게 작동하는가 by 이한소
 
+ISBN: 9791160547160 | 135*210 mm | 288 pages | Korean-language
+For more information (in Korean): https://www.selectedethic.com/
+
+If you are interested in publishing this book in your country,
+please feel free to contact me: https://www.selectedethic.com/
+
+
 The Selected Ethic: How the Meta-Advanced Country Works
-
 by Hanso LEE
-
 
 
 Table of Contents
