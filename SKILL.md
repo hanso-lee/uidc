@@ -243,8 +243,8 @@ ISBN: 9791160547160 | 135*210 mm | 288 pages | Korean-language
 
 For more information (in Korean): https://www.selectedethic.com/
 
-If you are interested in publishing this book in your country,
 
+If you are interested in publishing this book in your country,
 please feel free to contact me: https://www.selectedethic.com/
 
 
