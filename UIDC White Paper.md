@@ -4,12 +4,10 @@
 
 
 > "One of the stunning facts about global poverty is how little it would take to fix it, at least if we could magically transfer money into the bank accounts of the world’s poor."
->
 > — The Great Escape, Angus Deaton
 
 
 > "Any sufficiently advanced technology is indistinguishable from magic."
->
 > — Arthur C. Clarke
 
 
