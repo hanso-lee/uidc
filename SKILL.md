@@ -19,11 +19,8 @@ UIDC를 처음 접하는 대중을 위해 일상 언어와 쉬운 예시를 사�
 저자 연락처 (Contact the author): https://www.selectedethic.com/
 
 UIDC 백서는 책 『선택된 윤리』의 부록입니다. 백서에서 언급되는 n.m장(e.g. 9.2장)은 『선택된 윤리』의 본문을 가리킵니다.
-
 UIDC White Paper, UIDC 백서는 출처 표기 시 자유 이용이 가능합니다.
-
 영어 출처 표기 예시: Hanso Lee, The Selected Ethic, Appendix “UIDC White Paper”
-
 한국어 출처 표기 예시: 이한소, 『선택된 윤리』 부록 「UIDC 백서」
 
 
